@@ -2,6 +2,6 @@ package test
 
 import "fmt"
 
-func sayHi(name string) string {
+func SayHi(name string) string {
 	return fmt.Sprintf("Hi, %s!", name)
 }
