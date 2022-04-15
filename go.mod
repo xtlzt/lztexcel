@@ -1,3 +1,3 @@
-module github.com/xtlzt/lztexcel
+module lztexcel
 
 go 1.18
